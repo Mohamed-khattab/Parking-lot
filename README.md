@@ -1,8 +1,8 @@
-<h1> System Design - Parking Lot Design Interview Question
+# System Design - Parking Lot Design Interview Question
 
-<h2> This project is a Parking lot system designed using <br>
+## This project is a Parking lot system designed using <br>
 ## object oriented principles.
 ## Design pattern 
-### > Singleton Design Pattern <br>
-### > Strategy Design Pattern
+> ### Singleton Design Pattern <br>
+> ###  Strategy Design Pattern
 
